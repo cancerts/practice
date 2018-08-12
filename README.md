@@ -4,7 +4,7 @@
 * [修订记录](CHANGELOG.md)
 * [如何贡献](CONTRIBUTING.md)
 * [Docker 简介](introduction/README.md)
-    * [什么是 Docker](introduction/what.md)
+    * [什么是 Docker](https://github.com/yeasy/docker_practice/blob/master/introduction/what.md)
     * [为什么要用 Docker](introduction/why.md)
 * [基本概念](basic_concept/README.md)
     * [镜像](basic_concept/image.md)
